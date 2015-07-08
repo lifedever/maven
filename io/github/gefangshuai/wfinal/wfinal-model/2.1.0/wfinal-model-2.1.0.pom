@@ -7,10 +7,10 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>wfinal-flash</artifactId>
+    <artifactId>wfinal-model</artifactId>
     <packaging>jar</packaging>
 
-    <name>wfinal-flash</name>
+    <name>wfinal-model</name>
     <url>http://maven.apache.org</url>
 
     <properties>
