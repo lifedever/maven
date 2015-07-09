@@ -1,4 +1,4 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Wed May 13 21:49:23 CST 2015
-patchca-0.5.0.pom>=
-patchca-0.5.0.jar>=
+#Wed May 13 21:52:26 CST 2015
+patchca-0.5.0.jar>haoch-maven-snapshot-repository=
+patchca-0.5.0.pom>haoch-maven-snapshot-repository=
