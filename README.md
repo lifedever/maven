@@ -9,14 +9,15 @@ maven
 
 ```xml
 <repositories>
-    <repository>
-        <id>haoch-maven-snapshot-repository</id>
-        <name>haoch-maven-snapshot-repository</name>
-        <url>https://raw.github.com/gefangshuai/maven/master/</url>
-    </repository>
+	<repository>
+		<id>gfs-maven-snapshot-repository</id>
+		<name>gfs-maven-snapshot-repository</name>
+		<url>https://raw.githubusercontent.com/gefangshuai/maven/master/</url>
+	</repository>
 </repositories>
 ```
 
 # License
 
 Copyright (c) 2014 gefangshuai. See the LICENSE file for license rights and limitations ([LICENSE.md](LICENSE.md)).
+
